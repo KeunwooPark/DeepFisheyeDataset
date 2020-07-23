@@ -4,8 +4,8 @@ Our work, **'DeepFisheye: Near-Surface Multi-Finger Tracking Technology Using Fi
 If you want to know more about the project, please see the links below.
 
 ## Related Links
-- [Project Page](http://kwpark.io/deepfisheye)
-- [Deeplearning Model](https://github.com/KAIST-HCIL/DeepFisheyeNet)
+- [Project page](http://kwpark.io/deepfisheye)
+- [Deep learning model](https://github.com/KAIST-HCIL/DeepFisheyeNet)
 
 ## DeepFisheye Synthetic Dataset
 
