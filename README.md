@@ -1,6 +1,6 @@
 # DeepFisheye Dataset
 Access point for the datasets of DeepFisheye project (UIST 2020).
-Our work, 'DeepFisheye: Near-Surface Multi-Finger Tracking Technology Using Fisheye Camera', will be presented in UIST 2020.
+Our work, **'DeepFisheye: Near-Surface Multi-Finger Tracking Technology Using Fisheye Camera'**, will be presented in UIST 2020.
 If you want to know more about the project, please see the links below.
 
 ## Related Links
