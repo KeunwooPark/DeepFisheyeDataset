@@ -41,4 +41,18 @@ Please fill out the form if you want to download this dataset. You are required 
 - [Form Link](https://forms.gle/6MqTGu41TL5X2sU29)
 
 
+# Citation
+Please cite our paper in your publication if it helped your research.
+
+```
+@inproceedings{Park2020DeepFisheye,
+  title = {DeepFisheye: Near-Surface Multi-Finger Tracking Technology Using Fisheye Camera},
+  author = {Park, Keunwoo and Kim, Sunbum and Yoon, Youngwoo and Kim, Tae-Kyun and Lee, Geehyuk},
+  booktitle = {Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology},
+  year = {2020},
+  publisher = {Association for Computing Machinery},
+  numpages = {15},
+  series = {UIST '20}
+}
+```
 
