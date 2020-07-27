@@ -17,7 +17,7 @@ If you are interested in creating a fisheye camera in Unity, please see this [pr
 ### Terms and Conditions
 The download and use of the dataset is released for academic research only and it is free to researchers from educational or research institutes for non-commercial purposes. When downloading the dataset you agree to (unless with expressed permission of the authors): not redistribute, modificate, or commercial usage of this dataset in any way or form, either partially or entirely.
 
-If you use the dataset or parts of it in your research, you must cite the respective paper.
+If you use the dataset or parts of it in your research, you must cite this paper.
 ```
 @inproceedings{Park2020DeepFisheye,
   title = {DeepFisheye: Near-Surface Multi-Finger Tracking Technology Using Fisheye Camera},
@@ -41,7 +41,7 @@ This dataset is just for fine-tunning a network. You have to use the synthetic d
 ### Terms and Conditions
 The download and use of the dataset is released for academic research only and it is free to researchers from educational or research institutes for non-commercial purposes. When downloading the dataset you agree to (unless with expressed permission of the authors): not redistribute, modificate, or commercial usage of this dataset in any way or form, either partially or entirely.
 
-If you use the dataset or parts of it in your research, you must cite the respective paper.
+If you use the dataset or parts of it in your research, you must cite this paper.
 ```
 @inproceedings{Park2020DeepFisheye,
   title = {DeepFisheye: Near-Surface Multi-Finger Tracking Technology Using Fisheye Camera},
