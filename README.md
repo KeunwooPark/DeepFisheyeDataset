@@ -44,4 +44,5 @@ If you use any of the two datasets or parts of them in your research, you must c
 
 ## Joint data format
 Join data of a single frame is in a single txt file. It has 3 X 21 numbers that are separated by commas. Three consecutive number represent x,y,z of a single joint. Origin is the fisheye camera. The below picture shows the order of the joints in txt files.
+
 ![hand_model](hand_model.png)
