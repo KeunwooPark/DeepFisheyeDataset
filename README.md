@@ -14,8 +14,6 @@ If you want to know more about the project, please see the links below.
 Synthetic dataset comprises fisheye color, depth images and 3D joint data. The images were collected from virtual environment, which is Unity. There are approximately 233,000 pairs of images and joint data. 
 If you are interested in creating a fisheye camera in Unity, please see this [project](https://github.com/KeunwooPark/fisheye_mesh_generator).
 
-
-
 ### Download Link
 - [Download](https://drive.google.com/file/d/1_6ouKI9XOyDXLCAlGkvPwQO_5BMDQkDz/view?usp=sharing)
 
@@ -43,3 +41,7 @@ If you use any of the two datasets or parts of them in your research, you must c
   series = {UIST '20}
 }
 ```
+
+## Joint data format
+Join data of a single frame is in a single txt file. It has 3 X 21 numbers that are separated by commas. Three consecutive number represent x,y,z of a single joint. Origin is the fisheye camera. The below picture shows the order of the joints in txt files.
+![hand_model](hand_model.png)
