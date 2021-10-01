@@ -18,7 +18,7 @@ If you are interested in creating a fisheye camera in Unity, please see this [pr
 - [Download](https://drive.google.com/file/d/1_6ouKI9XOyDXLCAlGkvPwQO_5BMDQkDz/view?usp=sharing)
 
 ## DeepFisheye Real Dataset
-Real dataset comprises fisheye color images and 3D joint data. The images were captured from a machine vision camera (FLIR CM3-U3-13Y3C-CS) and joint data were collected with a Leap Motion device. We collected 42,000 images from four participants.
+Real dataset is composed of fisheye color images and 3D joint data. The images were captured from a machine vision camera (FLIR CM3-U3-13Y3C-CS) and joint data were collected with a Leap Motion device. We collected 42,000 images from four participants.
 
 This dataset is just for fine-tunning a network. You have to use the synthetic dataset for basic training.
 
@@ -43,6 +43,6 @@ If you use any of the two datasets or parts of them in your research, you must c
 ```
 
 ## Joint data format
-Join data of a single frame is in a single txt file. It has 3 X 21 numbers that are separated by commas. Three consecutive number represent x,y,z of a single joint. Origin is the fisheye camera. The below picture shows the order of the joints in txt files.
+Joint data of a single frame is in a single txt file. It has 3 X 21 numbers that are separated by commas. Three consecutive number represent x,y,z of a single joint. Origin is the fisheye camera. The below picture shows the order of the joints in txt files.
 
 ![hand_model](hand_model.png)
